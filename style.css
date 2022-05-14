@@ -1,0 +1,11 @@
+body{
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    font-family: fantasy;
+}
+
+button{
+    background-color: white;
+    margin-top: 50px;
+}
